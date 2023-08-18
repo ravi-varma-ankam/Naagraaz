@@ -32,6 +32,15 @@
     font-family: 'New Tegomin', serif;
 }
 
+#contact{
+    position: absolute;
+    bottom: 40px;
+    left: 50px;
+    font-size: 39px;
+    font-weight: bold;
+    font-family: 'New Tegomin', serif;
+}
+
 #board{
     position: absolute;
     right: 180px;
