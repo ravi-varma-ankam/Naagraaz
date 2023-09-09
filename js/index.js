@@ -16,7 +16,7 @@ food = {x: 6, y: 7};
 
 
 // Ask the user to select a difficulty level using a prompt
-alert("Hi🙌 this is NaagRaaz😃, To start game press any key");
+alert("Hi🙌 this is NaagRaaz😃,\nGet Ready to experience the epic NaagRaaz.\nTo start game press any key");
 alert("INSTRUCTIONS\nNaagRaaz - Snake Game\nYou can also select difficulty level.\nPress arrow key buttons in your keyboard to change the directions.\n");
 const userInput = prompt("Select a difficulty level with numbers:\n1. Easy😒\n2. Medium😅\n3. Hard😳");
 
